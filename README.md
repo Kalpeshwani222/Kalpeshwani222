@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 -->
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="50" height ="50" />
 </div>
 
 <!-- socica link -->
@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 
 <!-- languages -->
 
-###  Languages and Tools :
+### Languages and Tools :
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
@@ -57,3 +57,11 @@ Here are some ideas to get you started:
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   
 </div>
+
+### My Stats :
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Kalpeshwani222&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+<!-- used languages -->
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kalpeshwani222&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
