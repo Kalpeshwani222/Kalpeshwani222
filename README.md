@@ -37,7 +37,6 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on MERN stack.
 - 🌱 I’m currently learning Flutter and DSA.
 - 👯 I’m looking to collaborate on Projects
-- 📫 How to reach me:[![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/wanikalpesh)
 - ⚡ Fun fact: Developing the projects.
 
 <!-- languages -->
