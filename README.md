@@ -1,8 +1,12 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="80" height ="70" />
 </div>
-
+<!-- profile counter -->
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=Kalpeshwani222&style=flat-square&color=blue" alt=""/>
+</div>
 <h1 align="center">Hi 👋, I'm Kalpesh Wani</h1>
+
 <h3 align="center">Passionate as Full Stack developer</h3>
 
 - 🔭 I’m currently working on my Startup idea **RestoBaba**
