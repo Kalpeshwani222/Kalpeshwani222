@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **Flutter and DSA**
 
-- 👨‍💻 All of my projects are available at [https://kalpeshwani.netlify.com/](https://kalpeshwani.netlify.com/)
+<!-- - 👨‍💻 All of my projects are available at [https://kalpeshwani.netlify.com/](https://kalpeshwani.netlify.com/) -->
 
 - 📫 How to reach me **wanikalpeshanil@gmail.com**
 
