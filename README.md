@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **wanikalpeshanil@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1KIpiUhA3qScYwFJnU-SkG3d1_1ewkXTQ/view?usp=sharing](https://drive.google.com/file/d/1KIpiUhA3qScYwFJnU-SkG3d1_1ewkXTQ/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1ZoRo8yNx4Pae-qmfh-EgkoM1AttIab8s/view?usp=share_link]
 
 - ⚡ Fun fact **Developing the projects.**
 
